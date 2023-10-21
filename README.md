@@ -1,6 +1,6 @@
 # docker-script #
 - - - -
-Script that automatically installs and sets up lancache on Ubuntu 20.04 Linux
+Script that automatically installs and sets up docker on Ubuntu 20.04 Linux
 You can run this by doing the command 
  
     bash <(curl -s https://raw.githubusercontent.com/saambd/docker-script-20.04/main/script.sh)
