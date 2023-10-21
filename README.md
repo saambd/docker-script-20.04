@@ -14,3 +14,4 @@ When you run this script:
 2. It will run the normal system updates
 3. It will add the docker repo to the repository list
 4. It will then install the latest version of docker and docker-compose
+5. It will then install the latest Portainer
